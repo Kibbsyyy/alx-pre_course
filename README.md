@@ -1,1 +1,1 @@
-A non empty readme
+Learning about shell and git basics
